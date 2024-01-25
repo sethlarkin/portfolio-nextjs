@@ -1,30 +1,48 @@
-# Portfolio Website
 
-This is a portfolio website built with Next.js and Tailwind CSS. It showcases your skills, projects, and achievements in an elegant and responsive design.
+# My Portfolio
 
-## Installation
+Welcome to my personal portfolio website, built with Next.js. This site showcases my skills, projects, and experiences as a software developer.
 
-1. Clone the repository: `git clone https://github.com/judygab/nextjs-portfolio.git`
-2. Navigate to the project directory: `cd portfolio-website`
-3. Install the dependencies: `npm install`
+## Features
 
-## Usage
+- **Modern Design**: Utilizing the latest design trends for a clean and attractive appearance.
+- **Responsive Layout**: Ensures a great experience on devices of all sizes.
+- **Portfolio Projects**: Detailed case studies of my key projects.
+- **About Me**: A section to learn more about my background and experiences.
+- **Contact Form**: Easy way for potential clients or employers to reach out to me.
 
-1. Start the development server: `npm run dev`
-2. Open your browser and visit `http://localhost:3000` to view the website.
+## Technologies Used
 
-## Dependencies
+- **Next.js**: A React framework for production-level applications.
+- **React**: To build a user-friendly interface.
+- **Tailwind CSS**: For styling the application.
 
-The following dependencies are required for this project:
+## Setup and Installation
 
-- Next.js: A React framework for server-side rendering and static site generation.
-- Tailwind CSS: A highly customizable CSS framework.
-- React: A JavaScript library for building user interfaces.
-- React Icons: A collection of popular icons for React projects.
-- TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
-- Resend: Resend is the email API for developers.
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sethlarkin/portfolio-nextjs
+   ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Run the development server:
+   ```bash
+   npm run dev
+   ```
+   Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Contributing
+
+Contributions to improve this portfolio are welcome. Feel free to fork this repository and submit pull requests.
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the terms of the license.
+This project is open source and available under the [MIT License](LICENSE).
 
+---
+
+Created with :heart: by Me

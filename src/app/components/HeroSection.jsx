@@ -47,7 +47,7 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-          Passionate about family, surfing, and capturing life's moments through photography. I find my true calling in the intricate world of programming, where creativity and logic intertwine.
+          Passionate about family, surfing, and capturing life&apos;s moments through photography. I find my true calling in the intricate world of programming, where creativity and logic intertwine.
           </p>
           <div>
             <Link

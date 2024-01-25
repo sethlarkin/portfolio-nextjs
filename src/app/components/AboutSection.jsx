@@ -57,16 +57,16 @@ const AboutSection = () => {
   return (
     <section className="text-white" id="about">
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
-        <Image src="/images/desktop.jpg" width={500} height={500} />
+        <Image src="/images/desktop.jpg" width={500} height={500} alt="Computer workstation"/>
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          I'm a software engineer with a solid background in developing both
-            web and mobile applications. I've worked extensively with React,
+          I&apos;m a software engineer with a solid background in developing both
+            web and mobile applications. I&apos;ve worked extensively with React,
             Next.js, and Angular, crafting user-friendly front-ends, and have a
             good handle on Django for robust back-end solutions. My experience
             with APIs allows me to integrate diverse systems seamlessly. In
-            addition, I'm skilled in SQL, which aids in efficient data
+            addition, I&apos;m skilled in SQL, which aids in efficient data
             management and manipulation. I also have a passion for data
             visualization, enabling me to represent complex data sets in a clear
             and engaging way.

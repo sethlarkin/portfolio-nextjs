@@ -10,6 +10,7 @@ const Footer = () => {
           src='/images/logo2.png'
           width={100}
           height={100}
+          alt="site icon"
           />
         </span>
         {/* <p className="text-slate-600">All rights reserved.</p> */}
